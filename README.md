@@ -9,6 +9,7 @@ Features of the app:
     - Enviroments added
     - Api's used are from Mercado Libre
     - Check connection internet.
+    - App developed with clean architecture.
 
 To take in mind:
 
