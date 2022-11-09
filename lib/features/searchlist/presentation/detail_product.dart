@@ -1,4 +1,4 @@
-import 'package:challenguemaple/features/searchlist/presentation/bloc_detail_product/detail_product_bloc.dart';
+import 'package:challenguemaple/features/searchlist/presentation/blocs/bloc_detail_product/detail_product_bloc.dart';
 import 'package:challenguemaple/features/searchlist/presentation/widgets/list_images_in_detail.dart';
 import 'package:challenguemaple/features/searchlist/presentation/widgets/list_visited.dart';
 import 'package:flutter/material.dart';

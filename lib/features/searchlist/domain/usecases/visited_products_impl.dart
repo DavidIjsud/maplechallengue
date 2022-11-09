@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:challenguemaple/features/searchlist/domain/entities/product_detail_entity.dart';
 
 import 'visisted_products.dart';

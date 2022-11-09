@@ -2,8 +2,8 @@ import 'package:challenguemaple/features/searchlist/data/data_sources/data_sourc
 import 'package:challenguemaple/features/searchlist/data/repository/repository_search_list_impl.dart';
 import 'package:challenguemaple/features/searchlist/domain/usecases/search_list_case_impl.dart';
 import 'package:challenguemaple/features/searchlist/domain/usecases/visited_products_impl.dart';
-import 'package:challenguemaple/features/searchlist/presentation/bloc_detail_product/detail_product_bloc.dart';
-import 'package:challenguemaple/features/searchlist/presentation/bloc_search_list/searchlist_bloc.dart';
+import 'package:challenguemaple/features/searchlist/presentation/blocs/bloc_detail_product/detail_product_bloc.dart';
+import 'package:challenguemaple/features/searchlist/presentation/blocs/bloc_search_list/searchlist_bloc.dart';
 import 'package:challenguemaple/features/searchlist/presentation/search_list.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

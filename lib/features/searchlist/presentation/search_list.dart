@@ -1,4 +1,4 @@
-import 'package:challenguemaple/features/searchlist/presentation/bloc_search_list/searchlist_bloc.dart';
+import 'package:challenguemaple/features/searchlist/presentation/blocs/bloc_search_list/searchlist_bloc.dart';
 import 'package:challenguemaple/features/searchlist/presentation/widgets/list_products.dart';
 import 'package:debounce_builder/debounce_builder.dart';
 import 'package:flutter/material.dart';
